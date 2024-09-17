@@ -11,8 +11,9 @@ clases con lista, tupla, conjunto y diccionario
 
 -codigo clase_datos
 -
-![imagen](https://github.com/user-attachments/assets/1c93d280-e235-4ac5-b864-6a121883eaf8)
+![imagen](https://github.com/user-attachments/assets/ed0524b3-54cf-4046-9dbd-16f2c1316b59)
 
 -resultado
 -
-![imagen](https://github.com/user-attachments/assets/a17e0336-a3be-4c5e-8195-c1dc57bb9d5a)
+![imagen](https://github.com/user-attachments/assets/7a557a00-c189-49ef-9d78-2d0a0c2c9fbf)
+
